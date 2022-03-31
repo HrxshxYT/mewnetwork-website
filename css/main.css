@@ -99,7 +99,7 @@ a:hover {
 }
 
 .topnav a:hover {
-    color: #3498db;
+    color: #65c1ff;
 }
 
 .topnav .icon {
@@ -320,7 +320,6 @@ a:hover {
     padding: 0;
     margin: -10px;
 }
-
 #gamemodes .mode {
 	margin: 15px;
 	text-align: left;
@@ -409,7 +408,7 @@ footer {
 }
 
 .copyright-notice {
-	color: #30343a;
+	color: #ffffff;
 	margin: 0;
 	margin-bottom: 0px;
 	padding: 0;
@@ -419,7 +418,7 @@ footer {
 }
 
 .copyright-notice:hover {
-	color: white;
+	color: rgb(0, 183, 255);
 	margin: 0;
 	margin-bottom: 0px;
 	padding: 0;
